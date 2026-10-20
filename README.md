@@ -78,6 +78,16 @@ These describe fields reflected in my work, not interchangeable claims of expert
 
 ---
 
+## Your real 3D GitHub skyline
+
+<div align="center">
+<img src="profile-3d-contrib/profile-night-view.svg" alt="Actual three-dimensional GitHub contribution calendar generated from account activity" width="100%" />
+</div>
+
+This is an **actual generated contribution visualization**, not a mock-up. The animated growing buildings at the top are a separate piece of portfolio artwork.
+
+---
+
 ## How I approach engineering
 
 ```mermaid
