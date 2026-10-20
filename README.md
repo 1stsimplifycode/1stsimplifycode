@@ -12,6 +12,8 @@
 [![Projects](https://img.shields.io/badge/Explore-Projects-7258ED?style=for-the-badge&logo=github)](docs/PROJECT_DIRECTORY.md)
 [![Contact](https://img.shields.io/badge/Email-Contact-118C91?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adishreegupta@gmail.com)
 
+<img src="assets/typing-hero.svg" alt="Animated professional roles: software, full stack, AI and ML, cybersecurity and product engineering" width="100%" />
+
 **B.Tech CSE · PES University, Bengaluru · Research & Engineering Portfolio**
 
 </div>
@@ -27,19 +29,14 @@
 
 <div align="center">
 
-### 🧭 My engineering identities
+### 🧭 Choose the engineering role you are hiring for
 
-![Software Engineer](https://img.shields.io/badge/SOFTWARE_ENGINEER-121A38?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/FULL_STACK_DEVELOPER-121A38?style=for-the-badge)
-![Backend](https://img.shields.io/badge/BACKEND_DEVELOPER-121A38?style=for-the-badge)
-![AI ML](https://img.shields.io/badge/AI%2FML_ENGINEER-132E46?style=for-the-badge)
-![Research](https://img.shields.io/badge/RESEARCH_ENGINEER-132E46?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/DATA_SCIENTIST-132E46?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/COMPUTER_VISION-22305D?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-22305D?style=for-the-badge)
-![Cloud DevOps](https://img.shields.io/badge/CLOUD_%26_DEVOPS-22305D?style=for-the-badge)
-![Mobile Apps](https://img.shields.io/badge/MOBILE_APP_BUILDER-22305D?style=for-the-badge)
-![Technical Product](https://img.shields.io/badge/TECHNICAL_PRODUCT_BUILDER-22305D?style=for-the-badge)
+Click any 3D role card to open source-backed project evidence.
+
+<table><tr><td width="33%"><a href="docs/roles/software-engineer.md"><img src="assets/roles/software-engineer.svg" width="100%" alt="Open software engineer role evidence page"/></a></td><td width="33%"><a href="docs/roles/full-stack.md"><img src="assets/roles/full-stack.svg" width="100%" alt="Open full stack role evidence page"/></a></td><td width="33%"><a href="docs/roles/backend.md"><img src="assets/roles/backend.svg" width="100%" alt="Open backend role evidence page"/></a></td></tr>
+<tr><td width="33%"><a href="docs/roles/ai-ml.md"><img src="assets/roles/ai-ml.svg" width="100%" alt="Open ai ml role evidence page"/></a></td><td width="33%"><a href="docs/roles/research.md"><img src="assets/roles/research.svg" width="100%" alt="Open research role evidence page"/></a></td><td width="33%"><a href="docs/roles/data-science.md"><img src="assets/roles/data-science.svg" width="100%" alt="Open data science role evidence page"/></a></td></tr>
+<tr><td width="33%"><a href="docs/roles/computer-vision.md"><img src="assets/roles/computer-vision.svg" width="100%" alt="Open computer vision role evidence page"/></a></td><td width="33%"><a href="docs/roles/cybersecurity.md"><img src="assets/roles/cybersecurity.svg" width="100%" alt="Open cybersecurity role evidence page"/></a></td><td width="33%"><a href="docs/roles/cloud-devops.md"><img src="assets/roles/cloud-devops.svg" width="100%" alt="Open cloud devops role evidence page"/></a></td></tr>
+<tr><td width="33%"><a href="docs/roles/mobile-apps.md"><img src="assets/roles/mobile-apps.svg" width="100%" alt="Open mobile apps role evidence page"/></a></td><td width="33%"><a href="docs/roles/technical-product.md"><img src="assets/roles/technical-product.svg" width="100%" alt="Open technical product role evidence page"/></a></td></tr></table>
 
 </div>
 
@@ -123,17 +120,13 @@
 
 ---
 
-## 🧠 How I work — in one view
+## 🧠 How I work — a 3D engineering lifecycle
 
-```mermaid
-flowchart LR
-  A["Understand"] --> B["Research"]
-  B --> C["Design"]
-  C --> D["Build"]
-  D --> E["Validate"]
-  E --> F["Explain"]
-  F --> G["Iterate"]
-```
+<div align="center"><img src="assets/how-i-work-3d.svg" width="100%" alt="Animated 3D engineering workflow: Discover, Research, Architect, Build, Validate, Deliver, Iterate"/></div>
+
+**Click evidence behind the lifecycle:** [Problem framing and product trade-offs — JourneyMind](https://github.com/1stsimplifycode/JourneyMind) · [Research and reproducibility — Chronos-AEGIS](https://github.com/1stsimplifycode/BSERC---Chronos-AEGIS-A-Cognitive-Mission-Console) · [Data and evaluation — Amazon ML](https://github.com/1stsimplifycode/Amazon-ML) · [Safety and user experience — ClearCare](https://github.com/1stsimplifycode/ClearCare-Understand-My-Care-Instructions) · [Security testing — Identity Threat Detection](https://github.com/1stsimplifycode/identity-threat-detection-platform)
+
+Every role badge above is a clickable path to a dedicated evidence page. The engineering lifecycle illustrates my approach; project links provide examples to inspect.
 
 ## 📚 Research & recognition
 
