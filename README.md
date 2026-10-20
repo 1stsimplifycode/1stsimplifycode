@@ -12,7 +12,7 @@
 [![Projects](https://img.shields.io/badge/Explore-Projects-7258ED?style=for-the-badge&logo=github)](docs/PROJECT_DIRECTORY.md)
 [![Contact](https://img.shields.io/badge/Email-Contact-118C91?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adishreegupta@gmail.com)
 
-<img src="assets/typing-hero.svg" alt="Animated professional roles: software, full stack, AI and ML, cybersecurity and product engineering" width="100%" />
+<img src="assets/typing-hero-clean.svg" alt="Animated professional roles: software, full stack, AI and ML, cybersecurity and product engineering" width="100%" />
 
 **B.Tech CSE · PES University, Bengaluru · Research & Engineering Portfolio**
 
