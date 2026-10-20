@@ -20,7 +20,7 @@
 
 ---
 
-## ⚡ 10-second recruiter snapshot
+## ⚡ At a glance
 
 | I build | I investigate | I make usable |
 |:--:|:--:|:--:|
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### 🧭 Choose the engineering role you are hiring for
+### 🧭 Explore my engineering disciplines
 
 Click any 3D role card to open source-backed project evidence.
 
