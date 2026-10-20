@@ -29,19 +29,14 @@
 
 <div align="center">
 
-### 🧭 My engineering identities
+### 🧭 Choose the engineering role you are hiring for
 
-[![Software Engineer](https://img.shields.io/badge/SOFTWARE_ENGINEER-121A38?style=for-the-badge)](docs/roles/software-engineer.md)
-[![Full Stack](https://img.shields.io/badge/FULL_STACK_DEVELOPER-121A38?style=for-the-badge)](docs/roles/full-stack.md)
-[![Backend](https://img.shields.io/badge/BACKEND_DEVELOPER-121A38?style=for-the-badge)](docs/roles/backend.md)
-[![AI ML](https://img.shields.io/badge/AI%2FML_ENGINEER-132E46?style=for-the-badge)](docs/roles/ai-ml.md)
-[![Research](https://img.shields.io/badge/RESEARCH_ENGINEER-132E46?style=for-the-badge)](docs/roles/research.md)
-[![Data Science](https://img.shields.io/badge/DATA_SCIENTIST-132E46?style=for-the-badge)](docs/roles/data-science.md)
-[![Computer Vision](https://img.shields.io/badge/COMPUTER_VISION-22305D?style=for-the-badge)](docs/roles/computer-vision.md)
-[![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-22305D?style=for-the-badge)](docs/roles/cybersecurity.md)
-[![Cloud DevOps](https://img.shields.io/badge/CLOUD_%26_DEVOPS-22305D?style=for-the-badge)](docs/roles/cloud-devops.md)
-[![Mobile Apps](https://img.shields.io/badge/MOBILE_APP_BUILDER-22305D?style=for-the-badge)](docs/roles/mobile-apps.md)
-[![Technical Product](https://img.shields.io/badge/TECHNICAL_PRODUCT_BUILDER-22305D?style=for-the-badge)](docs/roles/technical-product.md)
+Click any 3D role card to open source-backed project evidence.
+
+<table><tr><td width="33%"><a href="docs/roles/software-engineer.md"><img src="assets/roles/software-engineer.svg" width="100%" alt="Open software engineer role evidence page"/></a></td><td width="33%"><a href="docs/roles/full-stack.md"><img src="assets/roles/full-stack.svg" width="100%" alt="Open full stack role evidence page"/></a></td><td width="33%"><a href="docs/roles/backend.md"><img src="assets/roles/backend.svg" width="100%" alt="Open backend role evidence page"/></a></td></tr>
+<tr><td width="33%"><a href="docs/roles/ai-ml.md"><img src="assets/roles/ai-ml.svg" width="100%" alt="Open ai ml role evidence page"/></a></td><td width="33%"><a href="docs/roles/research.md"><img src="assets/roles/research.svg" width="100%" alt="Open research role evidence page"/></a></td><td width="33%"><a href="docs/roles/data-science.md"><img src="assets/roles/data-science.svg" width="100%" alt="Open data science role evidence page"/></a></td></tr>
+<tr><td width="33%"><a href="docs/roles/computer-vision.md"><img src="assets/roles/computer-vision.svg" width="100%" alt="Open computer vision role evidence page"/></a></td><td width="33%"><a href="docs/roles/cybersecurity.md"><img src="assets/roles/cybersecurity.svg" width="100%" alt="Open cybersecurity role evidence page"/></a></td><td width="33%"><a href="docs/roles/cloud-devops.md"><img src="assets/roles/cloud-devops.svg" width="100%" alt="Open cloud devops role evidence page"/></a></td></tr>
+<tr><td width="33%"><a href="docs/roles/mobile-apps.md"><img src="assets/roles/mobile-apps.svg" width="100%" alt="Open mobile apps role evidence page"/></a></td><td width="33%"><a href="docs/roles/technical-product.md"><img src="assets/roles/technical-product.svg" width="100%" alt="Open technical product role evidence page"/></a></td></tr></table>
 
 </div>
 
