@@ -27,6 +27,29 @@ My public work spans **AI/ML, multimodal evidence, data science, computer vision
 
 > **What I offer an engineering team:** the ability to move between problem framing, prototypes, data pipelines, model evaluation, APIs and user-facing experiences. The repositories below are the evidence; they are not a claim of universal expertise.
 
+## 01A / The roles I work across
+
+I am not one single template. My work spans multiple connected engineering disciplines, with different levels of demonstrated depth. Explore the source before treating any title as a formal employment designation.
+
+| Professional identity | Evidence from my projects | Explore |
+|---|---|---|
+| **Software Engineer / SDE** | Application implementations, algorithmic problem solving, Python and JavaScript | [Engineering pathway](docs/ROLE_PATHWAYS.md) |
+| **Full-Stack Developer** | Frontend/backend implementations, APIs, data and user experiences | [JourneyMind](https://github.com/1stsimplifycode/JourneyMind) |
+| **Backend Developer** | Python APIs, data processing and graph-oriented services | [GENDEF](https://github.com/1stsimplifycode/gendef-api) |
+| **AI/ML Engineer** | Multimodal pipelines, model evaluation and entity resolution | [Amazon ML](https://github.com/1stsimplifycode/Amazon-ML) |
+| **Data Scientist / Analytics Developer** | Forecasting and structured experimental analysis | [Rice forecasting](https://github.com/1stsimplifycode/Rice_Production_Forecasting_India) |
+| **Computer Vision Engineer** | Image/video interpretation, OCR and visual evidence | [AEGIS Multimodal](https://github.com/1stsimplifycode/AEGIS_MULTIMODAL) |
+| **Cybersecurity Developer / Researcher** | Identity threats, graph analysis and attack-detection prototypes | [Identity Threat Detection](https://github.com/1stsimplifycode/identity-threat-detection) |
+| **Cloud / DevOps Practitioner** | Container/cloud work, CI/CD and deployment configurations | [Cloud project](https://github.com/1stsimplifycode/PES1UG23CS024_CLOUD_COMPUTING) |
+| **Research Engineer** | Experiments, evidence provenance and reproducibility documentation | [AEGIS Statistics](https://github.com/1stsimplifycode/CAPSTONE-PW26_SSS_08) |
+| **Technical Product Builder** | Translating user pain points into designed and implemented experiences | [ClearCare](https://github.com/1stsimplifycode/ClearCare-Understand-My-Care-Instructions) |
+| **Mobile App Developer** | Mobile-oriented application work and interfaces | [AEGIS Market](https://github.com/1stsimplifycode/AEGIS-MARKET) |
+| **MLOps / Data Engineering Explorer** | Dataset preparation and model workflow artifacts | [AEGIS](https://github.com/1stsimplifycode/AEGIS_MULTIMODAL) |
+
+**Additional interests represented in my broader work:** accessibility-oriented UI/UX, sustainability technology, developer tooling, academic mentoring and entrepreneurship. These are themes of work, not unsupported claims of professional certification.
+
+**My strongest documented intersection:** **Software Engineering × Applied AI × Multimodal Research × Security.** Specific job-fit evidence is organized in the [role pathways](docs/ROLE_PATHWAYS.md).
+
 ## 02 / Spotlight — open the project worlds
 
 | Project | First question it answers | System to explore |
@@ -81,7 +104,11 @@ I explore **multimodal AI, evidence reliability, security analytics and applied 
 
 Recognition previously listed on my profile includes National Girls Hackathon runner-up, TechGig Geek Goddess AIR 113, SBI Youth Ideathon Top 1000 Entrepreneurs, EY GDS Certificate of Merit and GHCI Advancing Inclusion Scholar. Supporting certificate links should be checked before use as independent proof.
 
-## 07 / The whole universe
+## 07 / My 3D contribution world
+
+My GitHub activity can be visualized as a three-dimensional contribution calendar. The proposed [Auto 3D Contributions](https://github.com/marketplace/actions/auto-3d-contributions) integration is documented in [3D setup](docs/THREE_D_CONTRIBUTIONS.md). The live SVG is displayed only after an actual generation run creates it; no placeholder activity history is fabricated.
+
+## 08 / The whole universe
 
 [**Browse the public project directory — 104 repositories at the 20 October 2026 inventory snapshot**](docs/PROJECT_DIRECTORY.md). The profile directory intentionally does **not** expose private projects.
 
