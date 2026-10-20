@@ -87,7 +87,7 @@ Click any 3D role card to open source-backed project evidence.
 
 <div align="center">
 
-**[Explore the public project directory →](docs/PROJECT_DIRECTORY.md)** · **[Follow role-based project trails →](docs/ROLE_PATHWAYS.md)** · **[Read engineering walkthroughs →](docs/PROJECT_SPOTLIGHTS.md)**
+**[Explore all 104 public repositories organized by domain →](docs/PROJECT_DIRECTORY.md)** · **[Follow role-based project trails →](docs/ROLE_PATHWAYS.md)** · **[Read engineering walkthroughs →](docs/PROJECT_SPOTLIGHTS.md)**
 
 </div>
 
