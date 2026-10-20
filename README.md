@@ -1,115 +1,123 @@
 <div align="center">
+<img src="assets/spatial-command-deck.svg" alt="Futuristic spatial engineering portfolio of Adishree Gupta" width="100%"/>
 
-<img src="assets/github-banner.svg" width="100%" alt="Adishree Gupta — AI, Systems, Security and Research" />
+### Enter the engineering command deck
 
-### AI/ML Engineering · Software Engineering · Cybersecurity · Applied Research
+**Every project is a door: understand the problem → inspect its system → read its evidence → try the implementation.**
 
-**I engineer systems that turn uncertain, complex data into useful, explainable decisions.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adishreegupta/)
-[![Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=NAn0PqcAAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Email-Contact-6534D6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adishreegupta@gmail.com)
-[![Repositories](https://img.shields.io/badge/GitHub-All_Projects-222?style=for-the-badge&logo=github)](https://github.com/1stsimplifycode?tab=repositories)
-
+[**Explore projects**](docs/PROJECT_DIRECTORY.md) · [**Choose your engineering role**](docs/ROLE_PATHWAYS.md) · [**Research**](https://scholar.google.com/citations?user=NAn0PqcAAAAJ&hl=en) · [**LinkedIn**](https://www.linkedin.com/in/adishreegupta/) · [**Email**](mailto:adishreegupta@gmail.com)
 </div>
 
 ---
 
-## 👩‍💻 About me
+## 00 / Navigation — choose your route
 
-I'm a Computer Science undergraduate at **PES University, Bengaluru**, interested in building reliable AI applications, software systems, and security-focused technology. My projects span **multimodal machine learning, full-stack development, computer vision, real-time systems, and cybersecurity**.
+| Enter through | What you'll find | Where to go |
+|---|---|---|
+| **Build** | Applications, APIs, full-stack systems | [Project directory](docs/PROJECT_DIRECTORY.md) |
+| **Investigate** | ML pipelines, experimental baselines and research artifacts | [Research repositories](https://github.com/1stsimplifycode?tab=repositories) |
+| **Defend** | Security analytics, threat detection and system safeguards | [Role pathways](docs/ROLE_PATHWAYS.md) |
+| **Evaluate** | Tests, claims, assumptions and reproducibility limits | [Evidence walkthroughs](docs/PROJECT_SPOTLIGHTS.md) |
 
-My goal is to connect rigorous research and engineering with applications that solve practical problems.
+## 01 / Who I am
 
-## 🎯 Engineering problems I like solving
+I’m **Adishree Gupta**, a Computer Science engineering student at **PES University, Bengaluru**. I build and research software that operates under practical constraints: imperfect data, ambiguous signals, interfaces for real users, and the need to explain why a system reached a particular conclusion.
 
-| Challenge | My approach |
-| --- | --- |
-| Fragmented information and weak decision context | Combine evidence from different sources and make outputs interpretable |
-| Models that fail on edge cases | Evaluate robustness, compare baselines, and test failure modes |
-| Security signals buried in noise | Build detection pipelines and meaningful alerts |
-| Research prototypes that are difficult to use | Bridge algorithms, APIs, deployment, and accessible interfaces |
+My public work spans **AI/ML, multimodal evidence, data science, computer vision, cybersecurity, full-stack apps, and research engineering**. I treat each implementation as something another engineer should be able to inspect—not just a screenshot.
 
-## 🚀 Featured projects
+> **What I offer an engineering team:** the ability to move between problem framing, prototypes, data pipelines, model evaluation, APIs and user-facing experiences. The repositories below are the evidence; they are not a claim of universal expertise.
 
-### 📊 AEGIS Market Risk Intelligence
-A multimodal market-risk intelligence project combining **price/volume, news, television, and social evidence** in an explainable decision workflow. Engineering themes include event-time evidence, feature pipelines, OCR, evaluation, and user-facing interfaces.
+## 01A / The roles I work across
 
-**[Explore AEGIS repository →](https://github.com/1stsimplifycode/CAPSTONE-PW26_SSS_08)**
+I am not one single template. My work spans multiple connected engineering disciplines, with different levels of demonstrated depth. Explore the source before treating any title as a formal employment designation.
 
-### 🔐 Threat Detection System
-A real-time DoS detection system using **Snort, Flask, and Wazuh**, demonstrating security event monitoring and application integration.
+| Professional identity | Evidence from my projects | Explore |
+|---|---|---|
+| **Software Engineer / SDE** | Application implementations, algorithmic problem solving, Python and JavaScript | [Engineering pathway](docs/ROLE_PATHWAYS.md) |
+| **Full-Stack Developer** | Frontend/backend implementations, APIs, data and user experiences | [JourneyMind](https://github.com/1stsimplifycode/JourneyMind) |
+| **Backend Developer** | Python APIs, data processing and graph-oriented services | [GENDEF](https://github.com/1stsimplifycode/gendef-api) |
+| **AI/ML Engineer** | Multimodal pipelines, model evaluation and entity resolution | [Amazon ML](https://github.com/1stsimplifycode/Amazon-ML) |
+| **Data Scientist / Analytics Developer** | Forecasting and structured experimental analysis | [Rice forecasting](https://github.com/1stsimplifycode/Rice_Production_Forecasting_India) |
+| **Computer Vision Engineer** | Image/video interpretation, OCR and visual evidence | [AEGIS Multimodal](https://github.com/1stsimplifycode/AEGIS_MULTIMODAL) |
+| **Cybersecurity Developer / Researcher** | Identity threats, graph analysis and attack-detection prototypes | [Identity Threat Detection](https://github.com/1stsimplifycode/identity-threat-detection) |
+| **Cloud / DevOps Practitioner** | Container/cloud work, CI/CD and deployment configurations | [Cloud project](https://github.com/1stsimplifycode/PES1UG23CS024_CLOUD_COMPUTING) |
+| **Research Engineer** | Experiments, evidence provenance and reproducibility documentation | [AEGIS Statistics](https://github.com/1stsimplifycode/CAPSTONE-PW26_SSS_08) |
+| **Technical Product Builder** | Translating user pain points into designed and implemented experiences | [ClearCare](https://github.com/1stsimplifycode/ClearCare-Understand-My-Care-Instructions) |
+| **Mobile App Developer** | Mobile-oriented application work and interfaces | [AEGIS Market](https://github.com/1stsimplifycode/AEGIS-MARKET) |
+| **MLOps / Data Engineering Explorer** | Dataset preparation and model workflow artifacts | [AEGIS](https://github.com/1stsimplifycode/AEGIS_MULTIMODAL) |
 
-### 🛒 ShopConnect
-A **MERN-stack** application connecting local shops and users. Prior project documentation reports support for 1,000+ concurrent users and a 30% latency reduction; see the original project for measurement context.
+**Additional interests represented in my broader work:** accessibility-oriented UI/UX, sustainability technology, developer tooling, academic mentoring and entrepreneurship. These are themes of work, not unsupported claims of professional certification.
 
-### 🏏 Cricket Analyzer
-Computer vision analysis of player performance using **OpenCV and TensorFlow**. Prior project documentation reports 95% accuracy; consult the associated evaluation for the metric definition.
+**My strongest documented intersection:** **Software Engineering × Applied AI × Multimodal Research × Security.** Specific job-fit evidence is organized in the [role pathways](docs/ROLE_PATHWAYS.md).
 
-### 🖥️ Touch-Free Laptop Control
-An accessibility-first interface using **MediaPipe, gestures, and voice** for laptop interaction.
+## 02 / Spotlight — open the project worlds
 
-### 🚆 Train Delay Prediction System
-A project exploring delay prediction through network and systems analysis, including TCP/IP-oriented tooling.
+| Project | First question it answers | System to explore |
+|---|---|---|
+| **[AEGIS Multimodal](https://github.com/1stsimplifycode/AEGIS_MULTIMODAL)** | Can video claims about trading be checked against independent market evidence? | Video/audio extraction → time-aligned claims → exchange checks → PASS/FAIL/ABSTAIN certificate |
+| **[AEGIS Statistics](https://github.com/1stsimplifycode/CAPSTONE-PW26_SSS_08)** | How do we evaluate market-integrity signals without overstating old results? | Point-in-time panel → evidence blocks → evaluation → research UI |
+| **[ClearCare](https://github.com/1stsimplifycode/ClearCare-Understand-My-Care-Instructions)** | Can people understand discharge instructions without inventing missing medical details? | Local PDF extraction → evidenced care plan → careful explanation |
+| **[JourneyMind](https://github.com/1stsimplifycode/JourneyMind)** | Is the cheapest advertised ride really the cheapest journey? | Fare and reliability model → booking simulation → total expected cost |
+| **[Amazon ML](https://github.com/1stsimplifycode/Amazon-ML)** | How can noisy records from multiple sources be linked at large scale? | Candidate blocking → pair scoring → precision-weighted evaluation |
+| **[AEGIS Market](https://github.com/1stsimplifycode/AEGIS-MARKET)** | How can heterogeneous market observations be presented together? | Market-intelligence app and integration surfaces |
 
-### ☁️ Secure AWS EC2 Deployment
-Node.js threat detection deployment using **GitHub Actions, AWS CloudWatch, and CI/CD workflows**.
+**[Read the guided walkthroughs, source entry points and verification caveats →](docs/PROJECT_SPOTLIGHTS.md)**
 
-**[Browse every repository — nothing hidden or removed →](https://github.com/1stsimplifycode?tab=repositories)**
+These are **spotlight candidates based on visible repository structure and documentation**, not a declaration that each has passed fresh execution and security checks.
 
-## 🧰 Technical toolkit
+## 03 / How I engineer
 
-**Languages:** Python · Java · JavaScript · C++ · SQL  
-**Full stack:** React · Node.js · Express · MongoDB · REST APIs  
-**AI and computer vision:** scikit-learn · TensorFlow · OpenCV · MediaPipe  
-**Security and systems:** Snort · Wazuh · Kali Linux · TCP/IP · Network Packet Analysis  
-**Development and cloud:** Git · Docker · Unix/Linux · AWS IAM · GitHub Actions
+```mermaid
+flowchart LR
+    A["Identify user problem"] --> B["Study data and constraints"]
+    B --> C["Design architecture"]
+    C --> D["Implement a narrow working path"]
+    D --> E["Test against edge cases"]
+    E --> F["Explain evidence and limits"]
+    F --> G["Iterate"]
+    G --> C
+```
 
-## 📚 Research and publications
+| Working principle | Where to inspect an example |
+|---|---|
+| **Evidence before certainty** | [AEGIS Multimodal](https://github.com/1stsimplifycode/AEGIS_MULTIMODAL) distinguishes PASS, FAIL and ABSTAIN |
+| **Provenance matters** | [AEGIS Statistics](https://github.com/1stsimplifycode/CAPSTONE-PW26_SSS_08) discloses older stored results that need rerunning |
+| **Make trade-offs visible** | [JourneyMind](https://github.com/1stsimplifycode/JourneyMind) distinguishes advertised fare from modeled expected cost |
+| **Respect safety boundaries** | [ClearCare](https://github.com/1stsimplifycode/ClearCare-Understand-My-Care-Instructions) documents limitations of parsing and synthetic data |
 
-My research interests include **multimodal AI, evidence reliability, intelligent market systems, and security analytics**. See my author page for publication records and status.
+## 04 / What I build with
 
-[**View Google Scholar profile →**](https://scholar.google.com/citations?user=NAn0PqcAAAAJ&hl=en)
+**Code and backend:** Python · Java · JavaScript · C++ · SQL · REST APIs  
+**Applications:** React · Node.js · Express · MongoDB  
+**ML and vision:** scikit-learn · TensorFlow · OpenCV · MediaPipe  
+**Security and infrastructure:** Snort · Wazuh · Linux · Git · Docker · GitHub Actions
 
-## 🏆 Awards and recognition
+These are tools appearing in my project work and previous documentation; specific depth varies by project.
 
-- 🥈 **1st Runner-Up** — National Girls Hackathon
-- 👩‍💻 **AIR 113** — TechGig Geek Goddess
-- 🧠 **Top 1000 Entrepreneurs** — SBI Youth Ideathon
-- 🏅 **Certificate of Merit** — EY GDS Internship
-- 🎓 **Scholar** — GHCI Advancing Inclusion
+## 05 / Open the right recruiter pathway
 
-## 📜 Certifications
+[Software engineering](docs/ROLE_PATHWAYS.md) · [Backend](docs/ROLE_PATHWAYS.md) · [AI/ML](docs/ROLE_PATHWAYS.md) · [Data science](docs/ROLE_PATHWAYS.md) · [Security](docs/ROLE_PATHWAYS.md) · [Research](docs/ROLE_PATHWAYS.md) · [Technical product](docs/ROLE_PATHWAYS.md)
 
-Google Cybersecurity (Coursera) · Google AI Essentials · Generative AI in Action · Communicating with Confidence · Learning Data Governance
+## 06 / Research and recognition
 
-## 💼 Where I can contribute
+I explore **multimodal AI, evidence reliability, security analytics and applied intelligent systems**. [Browse publications and bibliographic records on Google Scholar](https://scholar.google.com/citations?user=NAn0PqcAAAAJ&hl=en).
 
-| Engineering path | Problems I can work on |
-| --- | --- |
-| Software / Backend Engineering | APIs, integrations, reliable application workflows |
-| AI/ML Engineering | Data pipelines, evaluation, multimodal inference |
-| Applied AI / Research Engineering | Reproducible experiments, robustness testing, algorithm prototypes |
-| Cybersecurity Engineering | Threat detection, observability, security automation |
-| Technical Product / Forward-Deployed Engineering | Translating user pain points into shipped prototypes |
+Recognition previously listed on my profile includes National Girls Hackathon runner-up, TechGig Geek Goddess AIR 113, SBI Youth Ideathon Top 1000 Entrepreneurs, EY GDS Certificate of Merit and GHCI Advancing Inclusion Scholar. Supporting certificate links should be checked before use as independent proof.
 
-## 🧭 Explore my work
+## 07 / My 3D contribution world
 
-- [**Browse the public project directory**](docs/PROJECT_DIRECTORY.md) — an indexed guide to public repositories
-- [**Explore projects by engineering role**](docs/ROLE_PATHWAYS.md) — source links for different recruiting paths
+My GitHub activity can be visualized as a three-dimensional contribution calendar. The proposed [Auto 3D Contributions](https://github.com/marketplace/actions/auto-3d-contributions) integration is documented in [3D setup](docs/THREE_D_CONTRIBUTIONS.md). The live SVG is displayed only after an actual generation run creates it; no placeholder activity history is fabricated.
 
-## 📈 GitHub activity
+## 08 / The whole universe
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=1stsimplifycode&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub stats" />
-</div>
+[**Browse the public project directory — 104 repositories at the 20 October 2026 inventory snapshot**](docs/PROJECT_DIRECTORY.md). The profile directory intentionally does **not** expose private projects.
 
 ---
 
 <div align="center">
 
-**Build carefully · Test rigorously · Make it useful**
+**Curious about the implementation?** Open a project, follow its architecture and reproduce the verified steps.
 
-[LinkedIn](https://www.linkedin.com/in/adishreegupta/) · [Google Scholar](https://scholar.google.com/citations?user=NAn0PqcAAAAJ&hl=en) · [Email](mailto:adishreegupta@gmail.com) · [All repositories](https://github.com/1stsimplifycode?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/adishreegupta/) · [Google Scholar](https://scholar.google.com/citations?user=NAn0PqcAAAAJ&hl=en) · [Contact](mailto:adishreegupta@gmail.com)
 
 </div>
