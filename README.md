@@ -20,6 +20,25 @@
 
 ---
 
+## 🏙️ My engineering story — ten dimensions
+
+<div align="center"><img src="assets/engineering-introduction-3d.svg" width="100%" alt="Animated 3D ten-stage introduction: education, languages, frameworks, databases, tools, cloud, CS fundamentals, projects, research and role alignment"/></div>
+
+| Stage | Explore evidence |
+|---|---|
+| **01 · Name & education** | B.Tech Computer Science, PES University, Bengaluru |
+| **02 · Programming languages** | [All languages listed individually below](#-languages-i-use--individually-named) |
+| **03 · Frameworks & libraries** | React, Node.js, computer-vision and ML tools in the linked projects |
+| **04 · Databases** | SQL, MongoDB and graph-oriented data models across projects |
+| **05 · Tools & platforms** | Git, Linux, testing, CI, research and experiment workflows |
+| **06 · Cloud & deployment** | [Cloud work](https://github.com/1stsimplifycode/PES1UG23CS024_CLOUD_COMPUTING) · [JourneyMind deployment](https://github.com/1stsimplifycode/JourneyMind) |
+| **07 · Core CS foundations** | DSA, DBMS, OS and networks represented across coursework and applications |
+| **08 · Projects & experience** | [Project worlds](#-enter-the-project-worlds) · [Public project atlas](docs/PROJECT_DIRECTORY.md) |
+| **09 · Research & achievements** | [Google Scholar](https://scholar.google.com/citations?user=NAn0PqcAAAAJ&hl=en) · [Research projects](docs/roles/research.md) |
+| **10 · Engineering alignment** | [Explore role-based evidence](docs/ROLE_PATHWAYS.md) |
+
+---
+
 ## ⚡ At a glance
 
 | I build | I investigate | I make usable |
