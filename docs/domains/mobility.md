@@ -7,7 +7,6 @@
 ## Explore the project evidence
 
 - [JourneyMind](https://github.com/1stsimplifycode/JourneyMind)
-- [travelmate](https://github.com/1stsimplifycode/travelmate)
 
 ## What to look for
 
