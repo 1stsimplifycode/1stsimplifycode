@@ -40,7 +40,7 @@ These describe fields reflected in my work, not interchangeable claims of expert
 
 ---
 
-## Explore six different project worlds
+## Explore seven different project worlds
 
 ### 🚆 01 / JourneyMind — Mobility & Decision Systems
 **The challenge:** the cheapest advertised ride may not be the cheapest journey after booking failures and cancellations.  
@@ -69,7 +69,13 @@ These describe fields reflected in my work, not interchangeable claims of expert
 **The engineering:** webcam-based hand landmarks and gesture-triggered drawing/erasing using Python, OpenCV and MediaPipe.  
 **Start:** [Project source](https://github.com/1stsimplifycode/CamSketch)
 
-### 📡 06 / AEGIS Multimodal — Computer Vision, Media & Evidence
+### 🛰️ 06 / Chronos-AEGIS — Cognitive Mission Intelligence & Cyber-Physical Systems
+**The challenge:** help complex cyber-physical missions reason about dependencies, trust, attack propagation, conflicting evidence and possible actions over time.  
+**The engineering:** a temporal reasoning memory graph, mission-aware graph neural networks, multi-agent argumentation, causal reasoning, a discrete-event mission digital twin, cyber-risk propagation and a patch scheduler.  
+**The evidence:** [Architecture-to-paper implementation map](https://github.com/1stsimplifycode/BSERC---Chronos-AEGIS-A-Cognitive-Mission-Console/blob/main/docs/ARCHITECTURE.md) · [Reproducibility guide](https://github.com/1stsimplifycode/BSERC---Chronos-AEGIS-A-Cognitive-Mission-Console/blob/main/docs/reproducibility-guide.md) · [Source and README](https://github.com/1stsimplifycode/BSERC---Chronos-AEGIS-A-Cognitive-Mission-Console)  
+**Scope:** The repository documents research prototypes, examples and tests. Its README explicitly says the full production frontend/backend, deployment and several research-question baselines are not complete; the claimed 581 passing tests have not been independently rerun here.
+
+### 📡 07 / AEGIS Multimodal — Computer Vision, Media & Evidence
 **The challenge:** independently check what financial broadcasts claim against external market evidence.  
 **The engineering:** visual and audio evidence extraction, time alignment and explicit PASS/FAIL/ABSTAIN checks.  
 **Start:** [Technical README](https://github.com/1stsimplifycode/AEGIS_MULTIMODAL#readme) · [Encoders](https://github.com/1stsimplifycode/AEGIS_MULTIMODAL/tree/main/encoders) · [Tests](https://github.com/1stsimplifycode/AEGIS_MULTIMODAL/tree/main/tests)
