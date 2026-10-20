@@ -1,0 +1,440 @@
+{
+  "owner": "1stsimplifycode",
+  "generated_at": "2026-10-20",
+  "note": "Proposed topics, partially inferred from repository names. Review before applying. Existing topics preserved by script.",
+  "repositories": {
+    "Rice_Production_Forecasting_India": [
+      "agriculture",
+      "rice-production",
+      "forecasting",
+      "data-science"
+    ],
+    "XAI-FIN-QUANT-AI": [
+      "fintech",
+      "artificial-intelligence"
+    ],
+    "SDG_MIRROR_GREEN_ROOMS": [
+      "sustainability",
+      "mirror-green"
+    ],
+    "mathguide": [
+      "education",
+      "mathguide"
+    ],
+    "portfolio": [
+      "portfolio"
+    ],
+    "CODE_BY_GROWW_MARKET_WATCHLIST": [
+      "fintech",
+      "code-groww"
+    ],
+    "Infosys_Springboard_Batch_1_Final_Presentation": [
+      "fintech",
+      "education"
+    ],
+    "ecoship_wireframe": [
+      "sustainability",
+      "ecoship-wireframe"
+    ],
+    "save-animals": [
+      "save-animals"
+    ],
+    "Bluestock_Fintech": [
+      "fintech",
+      "bluestock-fintech"
+    ],
+    "LeetCode-Unlocked": [
+      "education",
+      "leetcode-unlocked"
+    ],
+    "IBM-skillsbuild": [
+      "education",
+      "skillsbuild"
+    ],
+    "CLOUD-COMPUTING-MINI-PROJECT": [
+      "cloud-computing"
+    ],
+    "neurosync-ai-agents-dashboard": [
+      "artificial-intelligence",
+      "web-development"
+    ],
+    "INSIGHT_NEXUS": [
+      "insight-nexus"
+    ],
+    "ujala_hope": [
+      "ujala-hope"
+    ],
+    "GigGuard-AI-for-Future-Hope": [
+      "artificial-intelligence",
+      "gigguard-future"
+    ],
+    "AEGIS_MULTIMODAL": [
+      "multimodal-ai",
+      "video-analysis",
+      "evidence-verification",
+      "market-integrity"
+    ],
+    "aegis-privacy": [
+      "research-engineering",
+      "aegis-privacy"
+    ],
+    "PES1UG23CS024_CLOUD_COMPUTING": [
+      "cloud-computing",
+      "education"
+    ],
+    "human_detection": [
+      "computer-vision",
+      "human-detection"
+    ],
+    "Distributed-SSH-Brute-Force-Attack-Simulation-and-Detection": [
+      "ssh",
+      "brute-force-detection",
+      "cybersecurity",
+      "attack-simulation"
+    ],
+    "Graphite-Ledger-amex": [
+      "graph-analysis",
+      "graphite-ledger"
+    ],
+    "GreenPlate-Express": [
+      "sustainable-food",
+      "food-delivery",
+      "sustainability"
+    ],
+    "MaterialNet-AI": [
+      "artificial-intelligence",
+      "materialnet"
+    ],
+    "UrbanSimAI": [
+      "artificial-intelligence",
+      "urbansimai"
+    ],
+    "STUDENT_COMMUNICATION_AND_SUBMISSION_SYSTEM": [
+      "education",
+      "collaboration-tools"
+    ],
+    "AgriTimeSpinner": [
+      "agriculture",
+      "agritimespinner"
+    ],
+    "GestureAI": [
+      "artificial-intelligence",
+      "computer-vision"
+    ],
+    "1stsimplifycode": [
+      "github-profile",
+      "engineering-portfolio",
+      "developer-portfolio"
+    ],
+    "bharatsecure": [
+      "bharatsecure"
+    ],
+    "Amazon-ML": [
+      "entity-resolution",
+      "record-linkage",
+      "machine-learning",
+      "candidate-blocking",
+      "data-matching"
+    ],
+    "CollaboSuite": [
+      "education",
+      "collaboration-tools"
+    ],
+    "FusionDesk": [
+      "web-development",
+      "fusiondesk"
+    ],
+    "chronos-aegis": [
+      "research-engineering",
+      "chronos-aegis"
+    ],
+    "gendef-api": [
+      "cybersecurity",
+      "graph-analysis",
+      "brute-force-detection",
+      "streamlit"
+    ],
+    "Pulsar-Candidate-Classification-UE23CS352A-Mini-Project-": [
+      "pulsar-candidate"
+    ],
+    "emafrs-amif": [
+      "emafrs-amif"
+    ],
+    "ipowebappication": [
+      "fintech",
+      "web-development"
+    ],
+    "GenAI-Driven-SDV-Software-Factory": [
+      "artificial-intelligence",
+      "genai-driven"
+    ],
+    "AEGIS-MARKET": [
+      "fintech",
+      "market-intelligence",
+      "mobile-app",
+      "multimodal-ai"
+    ],
+    "AutoPR-Intelligence": [
+      "artificial-intelligence",
+      "developer-tools"
+    ],
+    "Grind-Solve-Conquer": [
+      "education",
+      "grind-solve"
+    ],
+    "Ping-Pong-PES1UG23CS024": [
+      "education",
+      "interactive-app"
+    ],
+    "CIE-GPT": [
+      "student-project"
+    ],
+    "CAPSTONE-PW26_SSS_08": [
+      "research-engineering",
+      "capstone-pw26"
+    ],
+    "GigGuard-AI": [
+      "artificial-intelligence",
+      "gigguard"
+    ],
+    "Sustainable-Food-Delivery-System": [
+      "food-systems",
+      "sustainability",
+      "artificial-intelligence"
+    ],
+    "ClearCare-Understand-My-Care-Instructions": [
+      "healthtech",
+      "discharge-instructions",
+      "accessibility",
+      "caregiver-support",
+      "patient-education"
+    ],
+    "Emotion_Aware_Multi_Perspective_Movie_Summarization": [
+      "emotion-aware"
+    ],
+    "CC_LAB-6_PES1UG23CS024": [
+      "education",
+      "pes1ug23cs024"
+    ],
+    "ipo_web": [
+      "fintech",
+      "web-development"
+    ],
+    "smartleftovermanagementsystem": [
+      "food-systems",
+      "smartleftovermanagementsystem"
+    ],
+    "AboutMe": [
+      "aboutme"
+    ],
+    "A-Scope": [
+      "scope"
+    ],
+    "Meme-Detector": [
+      "computer-vision",
+      "meme-detector"
+    ],
+    "biomass-carbon-rppt": [
+      "sustainability",
+      "biomass-carbon"
+    ],
+    "ecoinnovators": [
+      "sustainability",
+      "ecoinnovators"
+    ],
+    "livemarketshree": [
+      "fintech",
+      "livemarketshree"
+    ],
+    "MultiAgent_GenAI_IEEE": [
+      "artificial-intelligence",
+      "multiagent-genai"
+    ],
+    "webpilot": [
+      "web-development",
+      "developer-tools"
+    ],
+    "static-code-analysis": [
+      "developer-tools",
+      "static-code"
+    ],
+    "codeandtest": [
+      "codeandtest"
+    ],
+    "BSERC---Chronos-AEGIS-A-Cognitive-Mission-Console": [
+      "cognitive-mission-intelligence",
+      "cyber-physical-systems",
+      "digital-twin",
+      "graph-neural-networks",
+      "trust-aware-ai"
+    ],
+    "wecollaborate": [
+      "sustainability",
+      "education",
+      "collaboration-tools"
+    ],
+    "happy_birthday_adu": [
+      "web-development",
+      "interactive-app"
+    ],
+    "Cardiovascular-Risk-Prediction": [
+      "healthtech",
+      "artificial-intelligence"
+    ],
+    "identity-threat-detection": [
+      "cybersecurity",
+      "food-systems"
+    ],
+    "UJJALA_MISSION": [
+      "ujjala-mission"
+    ],
+    "JourneyMind-for-DBMS-Project-demo-": [
+      "mobility",
+      "journeymind-dbms"
+    ],
+    "GigGuard-AI-for-Delivery-Partners": [
+      "artificial-intelligence",
+      "gigguard-delivery"
+    ],
+    "WeWork": [
+      "collaboration-tools",
+      "wework"
+    ],
+    "collaborato": [
+      "education",
+      "collaboration-tools"
+    ],
+    "Store-Intelligence-End-to-End-Retail-Analytics-from-CCTV-Footage": [
+      "retail-analytics",
+      "computer-vision",
+      "cctv-analysis"
+    ],
+    "JourneyMind": [
+      "mobility",
+      "ride-booking",
+      "decision-support",
+      "reliability-modeling",
+      "full-stack"
+    ],
+    "GHG_Emissions_Prediction": [
+      "greenhouse-gas",
+      "emissions-prediction",
+      "sustainability",
+      "data-science"
+    ],
+    "AEGIS-TruthLens": [
+      "research-engineering",
+      "aegis-truthlens"
+    ],
+    "Bharat-Trust-AI": [
+      "cybersecurity",
+      "artificial-intelligence"
+    ],
+    "Stockazon": [
+      "fintech",
+      "retail-tech"
+    ],
+    "Employee-Wellness-Survey": [
+      "healthtech",
+      "employee-wellness"
+    ],
+    "dbms-taship": [
+      "dbms-taship"
+    ],
+    "ipowebapplication": [
+      "fintech",
+      "web-development"
+    ],
+    "weather-app": [
+      "food-systems",
+      "web-development"
+    ],
+    "farmconnect": [
+      "agriculture",
+      "farmconnect"
+    ],
+    "PolicyLens-AI": [
+      "artificial-intelligence",
+      "policylens"
+    ],
+    "TIC-TAC-TOE-GAME": [
+      "interactive-app",
+      "game"
+    ],
+    "my_calculator": [
+      "calculator"
+    ],
+    "identity-threat-detection-platform": [
+      "identity-threat-detection",
+      "cybersecurity",
+      "synthetic-data",
+      "threat-benchmarking"
+    ],
+    "WaterMind": [
+      "agriculture",
+      "watermind"
+    ],
+    "LiveMarket-Architecture": [
+      "fintech",
+      "livemarket-architecture"
+    ],
+    "Kestrel-Home-Returns-Risk-Variant-A-": [
+      "kestrel-home"
+    ],
+    "new_project": [
+      "student-project"
+    ],
+    "bluestock_internship": [
+      "fintech",
+      "bluestock-internship"
+    ],
+    "GreenLens-AI": [
+      "sustainability",
+      "artificial-intelligence"
+    ],
+    "adtrust-ai": [
+      "cybersecurity",
+      "artificial-intelligence"
+    ],
+    "AdTrust-CXAI": [
+      "cybersecurity",
+      "artificial-intelligence"
+    ],
+    "ai-bharat-trade-linguistic-bridge": [
+      "fintech",
+      "artificial-intelligence"
+    ],
+    "CamSketch": [
+      "computer-vision",
+      "hand-tracking",
+      "gesture-drawing",
+      "opencv",
+      "mediapipe"
+    ],
+    "github-analyzer": [
+      "developer-tools",
+      "github-analyzer"
+    ],
+    "sustainablefarming": [
+      "ai-irrigation-alerts",
+      "crop-disease-scanner",
+      "offline-farming-ai",
+      "soil-health-predictor",
+      "voice-agri-assistant"
+    ],
+    "CRGNN_plus_dataset": [
+      "graph-analysis",
+      "crgnn-plus"
+    ],
+    "Object-Oriented-Analysis-Design-OOAD-AOF-TEP": [
+      "object-oriented"
+    ],
+    "TalentScope": [
+      "talentscope"
+    ],
+    "Cloud-Computing-Lab-2-PES1UG23CS024": [
+      "cloud-computing",
+      "education"
+    ]
+  }
+}
