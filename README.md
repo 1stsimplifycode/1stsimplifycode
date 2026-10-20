@@ -18,11 +18,11 @@
 
 </div>
 
----
-
 ## 🏙️ My engineering story — ten dimensions
 
-<div align="center"><img src="assets/engineering-introduction-3d.svg" width="100%" alt="Animated 3D ten-stage introduction: education, languages, frameworks, databases, tools, cloud, CS fundamentals, projects, research and role alignment"/></div>
+![Engineering introduction: education, languages, frameworks, databases, tools, deployment, CS fundamentals, projects, research and role alignment](assets/engineering-story-readable-v2.svg)
+
+---
 
 | Stage | Explore evidence |
 |---|---|
