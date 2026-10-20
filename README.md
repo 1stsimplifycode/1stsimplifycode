@@ -106,7 +106,11 @@ Recognition previously listed on my profile includes National Girls Hackathon ru
 
 ## 07 / My 3D contribution world
 
-My GitHub activity can be visualized as a three-dimensional contribution calendar. The proposed [Auto 3D Contributions](https://github.com/marketplace/actions/auto-3d-contributions) integration is documented in [3D setup](docs/THREE_D_CONTRIBUTIONS.md). The live SVG is displayed only after an actual generation run creates it; no placeholder activity history is fabricated.
+<div align="center">
+<img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution visualization — currently a labeled placeholder pending the first workflow run" width="100%" />
+</div>
+
+**Status:** The panel above is a clearly labeled placeholder, **not actual contribution data**. Run the [Generate profile 3D contributions workflow](https://github.com/1stsimplifycode/1stsimplifycode/actions/workflows/profile-3d.yml) once to replace it with your real generated calendar. [Setup and security details](docs/THREE_D_CONTRIBUTIONS.md).
 
 ## 08 / The whole universe
 
