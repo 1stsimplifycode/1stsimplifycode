@@ -12,6 +12,8 @@
 [![Projects](https://img.shields.io/badge/Explore-Projects-7258ED?style=for-the-badge&logo=github)](docs/PROJECT_DIRECTORY.md)
 [![Contact](https://img.shields.io/badge/Email-Contact-118C91?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adishreegupta@gmail.com)
 
+<img src="assets/typing-hero.svg" alt="Animated professional roles: software, full stack, AI and ML, cybersecurity and product engineering" width="100%" />
+
 **B.Tech CSE · PES University, Bengaluru · Research & Engineering Portfolio**
 
 </div>
@@ -29,17 +31,17 @@
 
 ### 🧭 My engineering identities
 
-![Software Engineer](https://img.shields.io/badge/SOFTWARE_ENGINEER-121A38?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/FULL_STACK_DEVELOPER-121A38?style=for-the-badge)
-![Backend](https://img.shields.io/badge/BACKEND_DEVELOPER-121A38?style=for-the-badge)
-![AI ML](https://img.shields.io/badge/AI%2FML_ENGINEER-132E46?style=for-the-badge)
-![Research](https://img.shields.io/badge/RESEARCH_ENGINEER-132E46?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/DATA_SCIENTIST-132E46?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/COMPUTER_VISION-22305D?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-22305D?style=for-the-badge)
-![Cloud DevOps](https://img.shields.io/badge/CLOUD_%26_DEVOPS-22305D?style=for-the-badge)
-![Mobile Apps](https://img.shields.io/badge/MOBILE_APP_BUILDER-22305D?style=for-the-badge)
-![Technical Product](https://img.shields.io/badge/TECHNICAL_PRODUCT_BUILDER-22305D?style=for-the-badge)
+[![Software Engineer](https://img.shields.io/badge/SOFTWARE_ENGINEER-121A38?style=for-the-badge)](docs/roles/software-engineer.md)
+[![Full Stack](https://img.shields.io/badge/FULL_STACK_DEVELOPER-121A38?style=for-the-badge)](docs/roles/full-stack.md)
+[![Backend](https://img.shields.io/badge/BACKEND_DEVELOPER-121A38?style=for-the-badge)](docs/roles/backend.md)
+[![AI ML](https://img.shields.io/badge/AI%2FML_ENGINEER-132E46?style=for-the-badge)](docs/roles/ai-ml.md)
+[![Research](https://img.shields.io/badge/RESEARCH_ENGINEER-132E46?style=for-the-badge)](docs/roles/research.md)
+[![Data Science](https://img.shields.io/badge/DATA_SCIENTIST-132E46?style=for-the-badge)](docs/roles/data-science.md)
+[![Computer Vision](https://img.shields.io/badge/COMPUTER_VISION-22305D?style=for-the-badge)](docs/roles/computer-vision.md)
+[![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-22305D?style=for-the-badge)](docs/roles/cybersecurity.md)
+[![Cloud DevOps](https://img.shields.io/badge/CLOUD_%26_DEVOPS-22305D?style=for-the-badge)](docs/roles/cloud-devops.md)
+[![Mobile Apps](https://img.shields.io/badge/MOBILE_APP_BUILDER-22305D?style=for-the-badge)](docs/roles/mobile-apps.md)
+[![Technical Product](https://img.shields.io/badge/TECHNICAL_PRODUCT_BUILDER-22305D?style=for-the-badge)](docs/roles/technical-product.md)
 
 </div>
 
@@ -123,17 +125,13 @@
 
 ---
 
-## 🧠 How I work — in one view
+## 🧠 How I work — a 3D engineering lifecycle
 
-```mermaid
-flowchart LR
-  A["Understand"] --> B["Research"]
-  B --> C["Design"]
-  C --> D["Build"]
-  D --> E["Validate"]
-  E --> F["Explain"]
-  F --> G["Iterate"]
-```
+<div align="center"><img src="assets/how-i-work-3d.svg" width="100%" alt="Animated 3D engineering workflow: Discover, Research, Architect, Build, Validate, Deliver, Iterate"/></div>
+
+**Click evidence behind the lifecycle:** [Problem framing and product trade-offs — JourneyMind](https://github.com/1stsimplifycode/JourneyMind) · [Research and reproducibility — Chronos-AEGIS](https://github.com/1stsimplifycode/BSERC---Chronos-AEGIS-A-Cognitive-Mission-Console) · [Data and evaluation — Amazon ML](https://github.com/1stsimplifycode/Amazon-ML) · [Safety and user experience — ClearCare](https://github.com/1stsimplifycode/ClearCare-Understand-My-Care-Instructions) · [Security testing — Identity Threat Detection](https://github.com/1stsimplifycode/identity-threat-detection-platform)
+
+Every role badge above is a clickable path to a dedicated evidence page. The engineering lifecycle illustrates my approach; project links provide examples to inspect.
 
 ## 📚 Research & recognition
 
