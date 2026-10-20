@@ -42,6 +42,26 @@ Click any 3D role card to open source-backed project evidence.
 
 ---
 
+## 🌍 Engineering across domains
+
+**Different industries. The same curiosity, systems thinking and discipline to learn what each problem requires.** My work spans finance, health, mobility, security, agriculture, sustainability, visual intelligence, retail, mission systems and accessibility. Explore the implemented examples—not an assumption that every domain uses the same solution.
+
+<div align="center">
+
+<table>
+<tr><td width="50%"><a href="docs/domains/fintech.md"><img src="assets/domains/fintech.svg" alt="FinTech: open example projects" width="100%"/></a></td><td width="50%"><a href="docs/domains/healthtech.md"><img src="assets/domains/healthtech.svg" alt="HealthTech: open example projects" width="100%"/></a></td></tr>
+<tr><td width="50%"><a href="docs/domains/mobility.md"><img src="assets/domains/mobility.svg" alt="Mobility: open example projects" width="100%"/></a></td><td width="50%"><a href="docs/domains/cybersecurity.md"><img src="assets/domains/cybersecurity.svg" alt="Cybersecurity: open example projects" width="100%"/></a></td></tr>
+<tr><td width="50%"><a href="docs/domains/computer-vision.md"><img src="assets/domains/computer-vision.svg" alt="Computer Vision: open example projects" width="100%"/></a></td><td width="50%"><a href="docs/domains/agriculture.md"><img src="assets/domains/agriculture.svg" alt="Agriculture: open example projects" width="100%"/></a></td></tr>
+<tr><td width="50%"><a href="docs/domains/sustainability.md"><img src="assets/domains/sustainability.svg" alt="Sustainability: open example projects" width="100%"/></a></td><td width="50%"><a href="docs/domains/retail-analytics.md"><img src="assets/domains/retail-analytics.svg" alt="Retail / Commerce: open example projects" width="100%"/></a></td></tr>
+<tr><td width="50%"><a href="docs/domains/mission-systems.md"><img src="assets/domains/mission-systems.svg" alt="Mission Systems: open example projects" width="100%"/></a></td><td width="50%"><a href="docs/domains/accessibility.md"><img src="assets/domains/accessibility.svg" alt="Accessibility: open example projects" width="100%"/></a></td></tr>
+</table>
+
+[**Open the complete domain atlas →**](docs/DOMAIN_ATLAS.md)
+
+</div>
+
+---
+
 ## 🌌 Enter the project worlds
 
 *Eight different problem domains. Click any animated card to open real project code, documentation and experiments.*
@@ -67,7 +87,7 @@ Click any 3D role card to open source-backed project evidence.
 
 <div align="center">
 
-**[Explore all 104 public repositories by domain →](docs/PROJECT_DIRECTORY.md)** · **[Follow role-based project trails →](docs/ROLE_PATHWAYS.md)** · **[Read engineering walkthroughs →](docs/PROJECT_SPOTLIGHTS.md)**
+**[Explore the public project directory →](docs/PROJECT_DIRECTORY.md)** · **[Follow role-based project trails →](docs/ROLE_PATHWAYS.md)** · **[Read engineering walkthroughs →](docs/PROJECT_SPOTLIGHTS.md)**
 
 </div>
 
