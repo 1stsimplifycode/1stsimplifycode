@@ -93,6 +93,11 @@ Google Cybersecurity (Coursera) · Google AI Essentials · Generative AI in Acti
 | Cybersecurity Engineering | Threat detection, observability, security automation |
 | Technical Product / Forward-Deployed Engineering | Translating user pain points into shipped prototypes |
 
+## 🧭 Explore my work
+
+- [**Browse the public project directory**](docs/PROJECT_DIRECTORY.md) — an indexed guide to public repositories
+- [**Explore projects by engineering role**](docs/ROLE_PATHWAYS.md) — source links for different recruiting paths
+
 ## 📈 GitHub activity
 
 <div align="center">
